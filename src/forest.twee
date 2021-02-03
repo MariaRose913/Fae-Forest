@@ -1,3 +1,32 @@
-(Noise of a forest throughout the rest of the game)
-(Entire background painting of a forest)
+
 :: forest
+I tread through, over, and under rocks and branches as we go deeper into the forest. 
+I stumble at the hands of a bump on the ground but catch myself before I fall.  
+I look to see what caused my shuffle and am surprised to see it's just a small little stone. 
+It's beautiful. 
+[[I think I want to pick it up|pick]]
+[[I think I want to leave it alone|leave]]
+
+:: pick 
+I squat down beside it and pry it from the earth, it was stuck in there pretty tight. 
+I stand and shove it into my pocket.
+"You're falling behind," I hear Avery shout from a couple of meters ahead of me. 
+"[[Coming,|goto]]" I shout and jog in his direction.
+
+:: leave 
+I glance at it one last time and notice a lily blooming right beside it. 
+I turn my back and continue on. 
+"Wait up," I shout to Avery as I start[[jogging in his direction.|goto]]
+
+:: goto 
+As I am moving toward Avery I notice a twinkle in the corner of my eye. 
+I turn to see ............idk yet (DRAFT) 
+With my eyes glued on the sight, I don't notice Avery right in front of me before I slam into his back and knock him to the floor. 
+"Watch where you're going <<print $name>>," Avery yells. 
+"Sorry I got a little distracted," I [[offer him a hand.|hand]]
+
+:: hand 
+
+
+
+
