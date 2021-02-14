@@ -17,6 +17,7 @@ It's my best friend in the entire world, Avery! The only person I would want to 
 "Of course I can!" I shoot back at him.
 
 "My name is <<textbox "$name" "" "intro" autofocus>>"
+hi 
 
 :: intro 
 "Well that's good <<print $name>>, I was starting to get a little worried" he exclaims as the car comes to a stop. 
