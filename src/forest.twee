@@ -6,39 +6,32 @@ I look to see what caused my shuffle and am surprised to see it's just a small l
 It's beautiful. 
 [[I think I want to pick it up|pick]]  
 [[I think I want to leave it alone|leave]]
-(This choice now will have an if code later on)
+(This choice __MIGHT__ have an effect in the future)
+
 :: pick 
 I squat down beside it and pry it from the earth, it was stuck in there pretty tight. 
-I stand and shove it into my pocket.
+I stand and shove it into my pocket. I notice a beautiful __lily__ beside where it was resting moments ago. 
 "You're falling behind," I hear Avery shout from a couple of meters ahead of me. 
 "[[Coming,|goto]]" I shout and jog in his direction.
 
 :: leave 
-I glance at it one last time and notice a lily blooming right beside it. 
+I glance at it one last time and notice a __lily__ blooming right beside it. 
 I turn my back and continue on. 
 "Wait up," I shout to Avery as I start [[jogging in his direction.|goto]]
 
 :: goto 
 As I am moving toward Avery I notice a twinkle in the corner of my eye. 
-I turn to see ............idk yet (DRAFT) 
+I turn to see a small figure glisining in the light, I rub my eyes to get a better view.  
 With my eyes glued on the sight, I don't notice Avery right in front of me before I slam into his back and knock him to the floor. 
 "Watch where you're going <<print $name>>," Avery yells. 
 "Sorry I got a little distracted," I [[offer him a hand.|hand]]
 
 :: hand 
-When Avery is at his feet and brushing off the dirt from his pant I notice he is missing something.
-"[[Where are your sunglasses?|glasse]]"
-
-:: glasse
-Avery's eyes widen and he pats the top of his head which is where they were resting only a second ago. 
-We both look around until I finally spot them lodged between two rocks. 
-I walk over and pick them up. They are completely destroyed. 
-"I'm sorry Avery," I say in a low and ashamed voice. "You can have the ones you gave me earlier!"
-"No, you keep those I gave them to you," he replies and I can just barely pick out the annoyance in his tone.
-He grabs the broken glasses from my hand, shoves them in his bag, and we [[continue moving.|next]]
+When Avery is at his feet and brushing off the dirt from his pant I notice he looks quite tired. 
+"[[Let's take a break,|next]]" I suggest. 
 
 :: next 
-We stop to take a break when the sun is nearly setting. 
+We stop to take the break when the sun is nearly setting. 
 We sit in a small flat of land next to a river and I pull my shades on over my eyes. 
 I pull a sandwich out of my bag and start working on it. 
 
@@ -48,21 +41,50 @@ I pull a sandwich out of my bag and start working on it.
 [[I gasp in disbelief.|meet]]
 
 :: meet 
-The creature in front of us is absolutely __Mezmer__ising. 
+The creature in front of us is absolutely __Mezmer__ising. Small but at my eye level hovering in mid air with its wings.
 Its skin glistens in the light and I feel as though it is too gorgeous for even me to set eyes upon. 
 I glance over at Avery but am confused to find him staring at the ground before I remember #5 on the paper from earlier 
 //Sunglasses can block a fae __Mesmer__, or not looking them in the eyes.//
-I nudge him in the arm and ask:
-[[for his broken glasses|broke]] 
-[[if he wants to use mine|mine]]
+He reaches into his bag and grabs his glasses.
+And now we both have protection from the Fae 
+His expression the same as mine when I first saw the creature 
+[[I wonder what it wants|nextt]]
 
-:: broke 
+:: nextt
+"I see you two have come prepared," the creature says whith a smirk on its face (wierd font)
+"Well thats wonderful it was starting to get boring around here," it speaks again with a small cuckle. (wierd font)
+I look the creature in the eyes, "what exactly do you want?" I say in a fierce tone.
+The grin on the creature face grows larger, "I want to have some fun," it says. 
+It flys directly infront of my face, I'm pretty sure it was trying to intimidate me. It worked.
+I fight back the erge to swat it like a fly. 
+"shall we have some fun then?" Avery says to distract its gaze from me.
+The creture turns it's head towrds Avery "yes, yes we shall."
+The creature flys backward so it can clearly see both of our faces. 
+"What shall we call you?" [[I ask]]
 
+:: I ask 
+"You can call me stone, and how about we start the fun with a riddle" the creature says. 
+"Although it is no fun if there arent stakes involved," stone exclaimes. 
+"What kind of stakes?" Avery asks.
+"If you get the riddle correct," stone opens her hand to reveal a small pearl. "You may have this!"
+Although we can both tell it isnt a normal pearl, it is gleaming with colorful light. 
+This would be the perfect PROOF we came here to get!
+"And if we a wrong?" I choke on my words a little nervous. 
+Stone smiles so wide that it reveals her sharp teeth "Than your friend must remove his glasses and look me in the eyes!"
+"Absolutley no.." I start to say before I am interupted 
+"We accept!"
+I look over at Avery my eyes shocked, [[why would he agree to that.|agree]]
 
-:: mine 
+:: agree 
+"Here is the riddle my children, listen well for I will only say it once." Stone instructs. 
 
+"Only one color, but not one size, 
+stuck at the bottom, yet easily flies.
+Present in sun, but not in rain,
+Doing no harm, and feeling no pain. 
+What is it?"
 
-
-
-
+(Program type in answer)
+[[Correct]]
+[[Wrong]]
 

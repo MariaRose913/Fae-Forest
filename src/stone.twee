@@ -1,0 +1,16 @@
+:: Correct 
+"It seems you have passed with ease," stone says with a scowl. 
+"As promised, the perl is yours," Stone tosses it in Avery's direction. 
+He catches it with his bare hands and Stone looks pleased. 
+Before I know what is happening Avery is frozen, he looks like a statue unable to move,
+with the pearl still sitting in his hand. 
+
+"[[WHAT DID YOU DO?|what did]]"
+
+:: what did
+"I simply held my end of the bargin," stone says.
+"This was not part of that bargin," I say with fear in my voice. "He isnt moving, do something!"
+"I only take action when there is something in it for me!"
+"Well than let's make that happen," I shout panic setting in.
+
+(if you picked up the stone) - You reach to hug Avery and 

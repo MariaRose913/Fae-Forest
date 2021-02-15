@@ -17,7 +17,6 @@ It's my best friend in the entire world, Avery! The only person I would want to 
 "Of course I can!" I shoot back at him.
 
 "My name is <<textbox "$name" "" "intro" autofocus>>"
-hi 
 
 :: intro 
 "Well that's good <<print $name>>, I was starting to get a little worried" he exclaims as the car comes to a stop. 
@@ -53,6 +52,7 @@ Fae Creatures
 4. They hate __Iron and salt__
 5. Sunglasses can block a fae __Mesmer__, or not looking them in the eyes. 
 6. They love riddles
+7. It's name is its weakness
 
 "That seems easy enough to remember," I say with a smile, eager to start the journey. I head in the direction of the forest 
 but before I realize I am unable to continue forward, Avery has a grasp on my arm.
