@@ -9,10 +9,15 @@ I failed to save my best friend.
 
 We should have never come into this forest! 
 
-(Different color Type text)
+@@color:red;
 YOU FAILED TO SAVE AVERY. YOU LOST YOUR BEST FRIEND.
+@@
 
-[[Try Again|solution]]
+You can try again to get a different ending!
+[[Start Over|Start]]
+
+
+
 
 :: End 5
 I grab the Kunai and stab the pearl sitting in his hands, but nothing happens.
@@ -25,10 +30,15 @@ I failed to save my best friend.
 
 We should have never come into this forest! 
 
-(Different color Type text)
+@@color:red;
 YOU FAILED TO SAVE AVERY. YOU LOST YOUR BEST FRIEND.
+@@
 
-[[Try Again|solution]]
+You can try again to get a different ending!
+[[Start Over|Start]]
+
+
+
 
 :: end 11
 I grab the stone and place it in his hands where the pearl sat. 
@@ -47,11 +57,34 @@ I let out a large sigh of relief knowing that he is okay.
 
 I nod and we head out
 
-(Different color Type text)
+@@color:blue;
 YOU HAVE SUCCESSFULLY SAVED AVERY, AND NOW YOU KNOW FAE EXIST.
+@@
+
+
+
 
 :: End 2
-Bad
+Bad - didint know name 
+
+
+
 
 :: End 3
-Yay
+good knew name
+"Congratulations human, you are smarter than I would have guessed."
+
+@@color:blue;
+YOU HAVE SUCCESSFULLY SAVED AVERY, AND NOW YOU KNOW FAE EXIST.
+@@
+
+
+
+
+:: End 7
+@@color:red;
+YOU FAILED TO SAVE AVERY. YOU LOST YOUR BEST FRIEND.
+@@
+
+You can try again to get a different ending!
+[[Start Over|Start]]
