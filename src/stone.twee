@@ -12,21 +12,22 @@ with the pearl still sitting in his hand.
 "This was not part of that bargain," I say with fear in my voice. "He isn't moving, do something!"
 "I only take action when there is something in it for me!"
 
-(if you picked up the stone - program later)
+<<if $Stone is 1>> 
  "However, child, you already possess everything needed to break his condition"
  "what does that mean?" I ask
  Stone ignores my question entirely.
  "You best hurry, you only have a few seconds before his lungs stop moving as well!"
  Stone fly's off into the shadows till I can no longer see her. 
 [[I quickly look for a solution|solution]]
- (if you picked up the stone)
+ <</if>>
 
- (If you did NOT pick up the stone - program later)
+<<if $Stone is 0>> 
 "Well then let's make that happen," I shout with panic setting in.
 "There is nothing more that I wish from you child, your friend will stay like this for eternity"
 As Stone turns to fly away I panic and reach for my 
 [[Salt]]
 [[Kunai]]
+<</if>>
 
 :: Salt
 I pull out the pouch from my pocket and threw a hand full in Stone's direction. 
@@ -40,13 +41,19 @@ To my surprise, Stone lands on the ground and starts to count every individual g
 
 :: question 
 "What is my name?"
+
 "How am I supposed to know your name?," I exclaim.
-"I will give you two hints: 
+
+"I will give you two hints": 
 1 - its fragrance is of nature
 2 - it is where you stumbled but did not fall"
 
 I know her name it's: 
-(Program type options)
+[[Rose|End 2]]
+[[Pebble| End 2]]
+[[Rock|End 2]]
+[[Lily|End 3]]
+[[Tulip|End 2]]
 
 :: Kunai 
 I pull the Kunai from my belt and hold it in Stone's direction. 

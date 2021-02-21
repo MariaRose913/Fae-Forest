@@ -9,13 +9,14 @@ It's beautiful.
 (This choice __MIGHT__ affect the future)
 
 :: pick 
+<<print $Stone += 1>>
 I squat down beside it and pry it from the earth, it was stuck in there pretty tight. 
-I stand and shove it into my pocket. I notice a beautiful __lily__ beside where it was resting moments ago. 
+I stand and shove it into my pocket. I notice a beautiful __Lily__ beside where it was resting moments ago. 
 "You're falling behind," I hear Avery shout from a couple of meters ahead of me. 
 "[[Coming,|goto]]" I shout and jog in his direction.
 
 :: leave 
-I glance at it one last time and notice a __lily__ blooming right beside it. 
+I glance at it one last time and notice a __Lily__ blooming right beside it. 
 I turn my back and continue on. 
 "Wait up," I shout to Avery as I start [[jogging in his direction.|goto]]
 
@@ -84,6 +85,5 @@ Present in sun, but not in rain,
 Doing no harm, and feeling no pain. 
 What is it?"
 
-(Program type in answer)
-[[Correct]]
-[[Wrong]]
+[[Age|Wrong]]
+[[Shadow|Correct]]
