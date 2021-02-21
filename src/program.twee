@@ -1,2 +1,4 @@
 :: StoryInit
 <<set $Stone to 0>>
+<<set $Salt to 0>>
+<<set $Kunai to 0>>
