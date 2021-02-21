@@ -14,11 +14,17 @@ It's beautiful.
 :: pick 
 I squat down beside it and pry it from the earth, it was stuck in there pretty tight. 
 
-I stand and shove the <<print $Stone += 1>> stone into my pocket. I notice a beautiful __Lily__ beside where it was resting moments ago. 
+I stand and shove the stone into my pocket. I notice a beautiful __Lily__ beside where it was resting moments ago. 
 
 "You're falling behind," I hear Avery shout from a couple of meters ahead of me. 
 
 "[[Coming,|goto]]" I shout and jog in his direction.
+
+<<silently>>
+
+<<print $Stone += 1>>
+
+<</silently>>
 
 :: leave 
 I glance at it one last time and notice a __Lily__ blooming right beside it. 

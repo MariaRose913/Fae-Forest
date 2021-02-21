@@ -107,3 +107,9 @@ YOU FAILED TO SAVE AVERY. YOU LOST YOUR BEST FRIEND.
 
 You can try again to get a different ending!
 [[Start Over|Start]]
+
+<<silently>>
+
+<<print $Stone -= 1>>
+
+<</silently>>

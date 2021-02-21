@@ -169,7 +169,13 @@ YOU FAILED TO SAVE AVERY. YOU LOST YOUR BEST FRIEND.
 @@
 
 You can try again to get a different ending!
-[[Start Over|Start]]</tw-passagedata><tw-passagedata pid="8" name="forest" tags="" position="975,100" size="100,100">I tread through, over, and under rocks and branches as we go deeper into the forest. 
+[[Start Over|Start]]
+
+&lt;&lt;silently&gt;&gt;
+
+&lt;&lt;print $Stone -= 1&gt;&gt;
+
+&lt;&lt;/silently&gt;&gt;</tw-passagedata><tw-passagedata pid="8" name="forest" tags="" position="975,100" size="100,100">I tread through, over, and under rocks and branches as we go deeper into the forest. 
 
 I stumble at the hands of a bump on the ground but catch myself before I fall. 
 
@@ -180,11 +186,17 @@ It&#39;s beautiful.
 [[I think I want to leave it alone|leave]]
 (This choice __MIGHT__ affect your future)</tw-passagedata><tw-passagedata pid="9" name="pick" tags="" position="1100,100" size="100,100">I squat down beside it and pry it from the earth, it was stuck in there pretty tight. 
 
-I stand and shove the &lt;&lt;print $Stone += 1&gt;&gt; stone into my pocket. I notice a beautiful __Lily__ beside where it was resting moments ago. 
+I stand and shove the stone into my pocket. I notice a beautiful __Lily__ beside where it was resting moments ago. 
 
 &quot;You&#39;re falling behind,&quot; I hear Avery shout from a couple of meters ahead of me. 
 
-&quot;[[Coming,|goto]]&quot; I shout and jog in his direction.</tw-passagedata><tw-passagedata pid="10" name="leave" tags="" position="1225,100" size="100,100">I glance at it one last time and notice a __Lily__ blooming right beside it. 
+&quot;[[Coming,|goto]]&quot; I shout and jog in his direction.
+
+&lt;&lt;silently&gt;&gt;
+
+&lt;&lt;print $Stone += 1&gt;&gt;
+
+&lt;&lt;/silently&gt;&gt;</tw-passagedata><tw-passagedata pid="10" name="leave" tags="" position="1225,100" size="100,100">I glance at it one last time and notice a __Lily__ blooming right beside it. 
 
 I turn my back and continue on. 
 
