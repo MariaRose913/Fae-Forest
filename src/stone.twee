@@ -69,6 +69,7 @@ To my surprise, Stone lands on the ground and starts to count every individual g
 2 - it is where you stumbled but did not fall"
 
 I know her name it's: 
+
 [[Rose|End 2]]
 [[Pebble| End 2]]
 [[Rock|End 2]]
@@ -93,7 +94,21 @@ after all, Stone did say that I only had //a few seconds before his lungs stoppe
 I better pick it [[fast]]
 
 :: fast 
-(10 seconds counting down program)
+<<set $seconds to 10>>\
+Countdown: <span id="countdown">$seconds seconds remaining</span>!\
+<<silently>>
+	<<repeat 1s>>
+		<<set $seconds to $seconds - 1>>
+		<<if $seconds gt 0>>
+			<<replace "#countdown">>$seconds seconds remaining<</replace>>
+		<<else>>
+			<<goto "end 8">>
+			/* do something useful here */
+			<<stop>>
+		<</if>>
+	<</repeat>>
+<</silently>>
+
 [[Salt|end 1]]
 [[Kunai|End 5]]
 [[Stone|end 11]]

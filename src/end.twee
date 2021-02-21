@@ -63,9 +63,10 @@ YOU HAVE SUCCESSFULLY SAVED AVERY, AND NOW YOU KNOW FAE EXIST.
 
 
 
-
 :: End 2
-Bad - didint know name 
+"You didin't know my name child, what a pitty" Stone says as she smiles.
+
+
 
 
 
@@ -82,6 +83,24 @@ YOU HAVE SUCCESSFULLY SAVED AVERY, AND NOW YOU KNOW FAE EXIST.
 
 
 :: End 7
+@@color:red;
+YOU FAILED TO SAVE AVERY. YOU LOST YOUR BEST FRIEND.
+@@
+
+You can try again to get a different ending!
+[[Start Over|Start]]
+
+
+:: end 8 
+
+//I went too slow//
+
+I can see his last breath as it leaves hip lips.
+
+I failed to save my best friend. 
+
+We should have never come into this forest! 
+
 @@color:red;
 YOU FAILED TO SAVE AVERY. YOU LOST YOUR BEST FRIEND.
 @@
