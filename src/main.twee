@@ -11,34 +11,45 @@ Fae Forest
 :: Start 
 I'm looking out the car window, drinking in all the beautiful scenery. Imagining all the adventures about to come.
 I have been looking forward to this trip for so long, I can't believe its finally happening.
-"Hey we are almost there, stop daydreaming," a voice so familiar and kind comes from beside me. 
-It's my best friend in the entire world, Avery! The only person I would want to be on this adventure with. 
-"You're always so lost in your thoughts, can you even tell me your own name when you get like that?" he says with a little chuckle. 
-"Of course I can!" I shoot back at him.
 
+"Hey we are almost there, stop daydreaming," a voice so familiar and kind comes from beside me. 
+
+It's my best friend in the entire world, Avery! The only person I would want to be on this adventure with. 
+
+"You're always so lost in your thoughts, can you even tell me your own name when you get like that?" he says with a little chuckle. 
+
+"Of course I can!" I shoot back at him.
 "My name is <<textbox "$name" "" "intro" autofocus>>"
 
 :: intro 
 "Well that's good <<print $name>>, I was starting to get a little worried" he exclaims as the car comes to a stop. 
+
 "Finally, we are here," I say with excitement as I [[jump out of the car.|jump]] 
 
 :: jump
 Avery meets me at the trunk of the car so we can take out all of our hiking gear. 
 We both stand there while we put on all of our equipment and right as I finish Avery closes the trunk and looks at me. 
+
 "We need to [[review]] why we are here one more time," he says with a steady and stern voice.
 
 :: review 
 "I already know why we are here," I tell him, a little annoyed because I don't want to waste any time. 
+
 "Okay smartass," Avery exclaims with the raise of one brow. 
 "Let's hear it then," he gestures one of his hands as if guiding me into a spotlight.
+
 It's obvious he wants me to explain it myself, sometimes I swear he thinks of me as a toddler. 
 "[[Okay fine!|okay]]" I blurt out with anger. 
 
 :: okay 
-"We are here to catch mythical creatures," saying it out loud brings a flush of red to my cheeks, it sounds stupid to say out loud. 
+"We are here to catch mythical creatures," saying it out loud brings a flush of red to my cheeks, it sounds stupid to say out loud.
+
 "Not exactly <<print $name>>," Avery says with a smirk. "We are here to get proof of them."
+
 "Right," I respond
+
 "Let's go over a few things before we go," Avery says.
+
 "[[Alright|ok]]"
 
 :: ok 
@@ -56,19 +67,28 @@ Fae Creatures
 
 "That seems easy enough to remember," I say with a smile, eager to start the journey. I head in the direction of the forest 
 but before I realize I am unable to continue forward, Avery has a grasp on my arm.
+
 "Hold on a sec <<print $name>>," Avery says 
+
 "[[What?]]"
 
 :: What?
 I turn in his direction with a questioning brow
 He hands me a small sac labeled salt, a pair of sunglasses, and a small iron kunai. 
+
 "You can't be serious," I say with laughter in my voice.
+
 "They are dangerous <<print $name>>, I just want to make sure you'll be able to defend yourself."
+
 "As you wish," I curtsy in a joking manner. 
+
 Avery scruffles my hair while I am still in my fake curtsy, and passes me "Let's go, princess."
+
 "Who are you calling a princess, you're more high maintenance than me," I shout [[running after Avery.|run]] 
 
 :: run
-I stick the sunglasses on my face, the salt in my pocket, and the kunai on my belt. 
+I stick the sunglasses on my face, the salt in my pocket, and the kunai on my belt.
+
 //I forgot to ask Avery what a Mesmer is, and if it's dangerous, It's probably not that important.//
+
 I tail behind Avery as we walk into the [[forest]].

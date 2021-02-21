@@ -1,7 +1,10 @@
 :: Correct 
 "It seems you have passed with ease," stone says with a scowl. 
+
 "As promised, the pearl is yours," Stone tosses it in Avery's direction. 
+
 He catches it with his bare hands and Stone looks pleased. 
+
 Before I knew what was happening Avery is frozen, he looks like a statue unable to move,
 with the pearl still sitting in his hand. 
 
@@ -9,34 +12,51 @@ with the pearl still sitting in his hand.
 
 :: what did
 "I simply held my end of the bargain," stone says.
+
 "This was not part of that bargain," I say with fear in my voice. "He isn't moving, do something!"
+
 "I only take action when there is something in it for me!"
 
 <<if $Stone is 1>> 
  "However, child, you already possess everything needed to break his condition"
+
  "what does that mean?" I ask
+
  Stone ignores my question entirely.
+
  "You best hurry, you only have a few seconds before his lungs stop moving as well!"
+
  Stone fly's off into the shadows till I can no longer see her. 
+
 [[I quickly look for a solution|solution]]
  <</if>>
 
 <<if $Stone is 0>> 
 "Well then let's make that happen," I shout with panic setting in.
+
 "There is nothing more that I wish from you child, your friend will stay like this for eternity"
+
 As Stone turns to fly away I panic and reach for my 
+
 [[Salt]]
 [[Kunai]]
 <</if>>
 
 :: Salt
-I pull out the pouch from my pocket and threw a hand full in Stone's direction. 
+I pull out the pouch from my pocket and throw a hand full in Stone's direction. 
+
 I'm not entirely sure that was how I was supposed to use it but I didn't exactly have the time to think about it. 
+
 To my surprise, Stone lands on the ground and starts to count every individual grain of salt I just threw. 
-// so this is how salt affects Fae//
+
+//so this is how salt affects Fae//
+
 "Since I assume you can not leave until you are finished counting every individual grain, help me now or I will throw more."
+
 "It seems you have bested me at the moment," Stone snarls while still counting grains.
+
 "I will reverse what I have done only if you answer me one question!"
+
 "[[What is it?|question]]"
 
 :: question 
@@ -57,13 +77,18 @@ I know her name it's:
 
 :: Kunai 
 I pull the Kunai from my belt and hold it in Stone's direction. 
+
 "Help me fix this or you will regret it" 
+
 "The thing about Iron my child is that you have to be able to reach me first," Stone smiles as she flies away into the shadows out of sight. 
+
 [[I failed|end 1]]
 
 :: solution 
-I pour out the content of my bag and pockets and look at everything in front of me
+I pour out the content of my bag and pockets and look at everything in front of me 
+
 I give myself __10__ __seconds__ to decide what would best help save Avery
+
 after all, Stone did say that I only had //a few seconds before his lungs stopped moving as well//
 I better pick it [[fast]]
 
