@@ -61,26 +61,38 @@ I nod and we head out
 YOU HAVE SUCCESSFULLY SAVED AVERY, AND NOW YOU KNOW FAE EXIST.
 @@
 
+You can try again to get a different ending!
+[[Start Over|Start]]
 
 
 :: End 2
-"You didin't know my name child, what a pitty" Stone says as she smiles.
+"You did not know my name child, what a pity," Stone says with a smile.
 
+"Avery will stay this way for eternity," stone says while vanishing into the night. 
 
+@@color:red;
+YOU FAILED TO SAVE AVERY. YOU LOST YOUR BEST FRIEND.
+@@
 
-
-
+You can try again to get a different ending!
+[[Start Over|Start]]
 
 :: End 3
-good knew name
+
 "Congratulations human, you are smarter than I would have guessed."
+
+"I will fix your friend's condition."
+
+Within an instant, Avery was back to normal and Lily had vanished. 
+
+Without a word we hurry to gather out things and leave the fae forest as fast as we can.
 
 @@color:blue;
 YOU HAVE SUCCESSFULLY SAVED AVERY, AND NOW YOU KNOW FAE EXIST.
 @@
 
-
-
+You can try again to get a different ending!
+[[Start Over|Start]]
 
 :: End 7
 @@color:red;
@@ -107,9 +119,3 @@ YOU FAILED TO SAVE AVERY. YOU LOST YOUR BEST FRIEND.
 
 You can try again to get a different ending!
 [[Start Over|Start]]
-
-<<silently>>
-
-<<print $Stone -= 1>>
-
-<</silently>>

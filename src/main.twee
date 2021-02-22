@@ -10,7 +10,7 @@ Fae Forest
 
 :: Start 
 I'm looking out the car window, drinking in all the beautiful scenery. Imagining all the adventures about to come.
-I have been looking forward to this trip for so long, I can't believe its finally happening.
+I have been looking forward to this trip for so long, I can't believe it's finally happening.
 
 "Hey we are almost there, stop daydreaming," a voice so familiar and kind comes from beside me. 
 
@@ -20,6 +20,12 @@ It's my best friend in the entire world, Avery! The only person I would want to 
 
 "Of course I can!" I shoot back at him.
 "My name is <<textbox "$name" "" "intro" autofocus>>"
+
+<<silently>>
+
+<<set $Stone to 0>>
+
+<</silently>>
 
 :: intro 
 "Well that's good <<print $name>>, I was starting to get a little worried" he exclaims as the car comes to a stop. 
