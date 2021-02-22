@@ -19,6 +19,7 @@ You can try again to get a different ending!
 
 
 
+
 :: End 5
 I grab the Kunai and stab the pearl sitting in his hands, but nothing happens.
 
@@ -36,6 +37,7 @@ YOU FAILED TO SAVE AVERY. YOU LOST YOUR BEST FRIEND.
 
 You can try again to get a different ending!
 [[Start Over|Start]]
+
 
 
 
@@ -65,6 +67,9 @@ You can try again to get a different ending!
 [[Start Over|Start]]
 
 
+
+
+
 :: End 2
 "You did not know my name child, what a pity," Stone says with a smile.
 
@@ -76,6 +81,10 @@ YOU FAILED TO SAVE AVERY. YOU LOST YOUR BEST FRIEND.
 
 You can try again to get a different ending!
 [[Start Over|Start]]
+
+
+
+
 
 :: End 3
 
@@ -94,6 +103,10 @@ YOU HAVE SUCCESSFULLY SAVED AVERY, AND NOW YOU KNOW FAE EXIST.
 You can try again to get a different ending!
 [[Start Over|Start]]
 
+
+
+
+
 :: End 7
 @@color:red;
 YOU FAILED TO SAVE AVERY. YOU LOST YOUR BEST FRIEND.
@@ -101,6 +114,9 @@ YOU FAILED TO SAVE AVERY. YOU LOST YOUR BEST FRIEND.
 
 You can try again to get a different ending!
 [[Start Over|Start]]
+
+
+
 
 
 :: end 8 
